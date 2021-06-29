@@ -1,0 +1,13 @@
+.container img {
+    width: 85vw;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+ol {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
